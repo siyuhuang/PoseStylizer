@@ -1,5 +1,14 @@
 # PoseStylizer
-PyTorch implementation of  "**Generating Person Images with Appearance-aware Pose Stylizer**" published in **IJCAI 2020**. 
+PyTorch implementation of  "**Generating Person Images with Appearance-aware Pose Stylizer**" published in **IJCAI 2020** [pdf](https://siyuhuang.github.io/papers/IJCAI-2020-Generating%20Person%20Images%20with%20Appearance-aware%20Pose%20Stylizer.pdf). 
+
+```
+@inproceedings{huang2020generating,
+  title={Generating Person Images with Appearance-aware Pose Stylizer},
+  author={Huang, Siyu and Xiong, Haoyi and Cheng, Zhi-Qi and Wang, Qingzhong  and Zhou, Xingran and Wen, Bihan and Huan, Jun and Dou Dejing},
+  booktitle={IJCAI},
+  year={2020}
+}
+```
 
 <p align="center"><img src='figs/framework.png' width="500"/></p>
 
@@ -105,16 +114,6 @@ python tool/calPCKH_fashion.py
 ```
 
 
-## Citation
-If you use this code for your research, please kindly cite our paper.
-```
-@inproceedings{huang2020generating,
-  title={Generating Person Images with Appearance-aware Pose Stylizer},
-  author={Huang, Siyu and Xiong, Haoyi and Cheng, Zhi-Qi and Wang, Qingzhong  and Zhou, Xingran and Wen, Bihan and Huan, Jun and Dou Dejing},
-  booktitle={IJCAI},
-  year={2020}
-}
-```
 
 ## Acknowledgments
 The code is written based on [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Pose-Transfer](https://github.com/tengteng95/Pose-Transfer).
