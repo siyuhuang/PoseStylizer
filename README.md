@@ -20,7 +20,7 @@ The code is written by Dr. [Siyu Huang](https://siyuhuang.github.io/). Contact [
 
 ## Getting Started
 ### Requirement
-* Python3
+* Python 3
 * PyTorch 1.0.1
 
 ### Installation
