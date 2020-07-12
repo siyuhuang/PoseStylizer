@@ -117,4 +117,4 @@ python tool/calPCKH_fashion.py
 
 
 ## Acknowledgments
-The code is written based on the nice frameworks [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Pose-Transfer](https://github.com/tengteng95/Pose-Transfer).
+The code is written based on nice frameworks [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Pose-Transfer](https://github.com/tengteng95/Pose-Transfer).
