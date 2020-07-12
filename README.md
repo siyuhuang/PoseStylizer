@@ -4,7 +4,8 @@ PyTorch implementation of  "**Generating Person Images with Appearance-aware Pos
 ```
 @inproceedings{huang2020generating,
   title={Generating Person Images with Appearance-aware Pose Stylizer},
-  author={Huang, Siyu and Xiong, Haoyi and Cheng, Zhi-Qi and Wang, Qingzhong  and Zhou, Xingran and Wen, Bihan and Huan, Jun and Dou Dejing},
+  author={Huang, Siyu and Xiong, Haoyi and Cheng, Zhi-Qi and Wang, Qingzhong 
+          and Zhou, Xingran and Wen, Bihan and Huan, Jun and Dou Dejing},
   booktitle={IJCAI},
   year={2020}
 }
