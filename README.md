@@ -1,5 +1,5 @@
 # PoseStylizer
-PyTorch implementation of  "**Generating Person Images with Appearance-aware Pose Stylizer**" published in IJCAI 2020 [\[paper\]](https://www.ijcai.org/Proceedings/2020/0087.pdf). 
+PyTorch implementation of  "**Generating Person Images with Appearance-aware Pose Stylizer**" [\[IJCAI 2020\]](https://www.ijcai.org/Proceedings/2020/0087.pdf). 
 
 ```
 @inproceedings{huang2020generating,
