@@ -13,9 +13,9 @@ PyTorch implementation of  "**Generating Person Images with Appearance-aware Pos
 
 The code is written by Dr. [Siyu Huang](https://siyuhuang.github.io/). Contact [Siyu Huang](https://siyuhuang.github.io/) for questions on this project.
 
-<p align="center"><img src='figs/framework.png' width="500"/></p>
+<p align="center"><img src='figs/framework.jpg' width="500"/></p>
 
-<p align="center"><img src='figs/fig1.png' width="600"/></p>
+<p align="center"><img src='figs/fig1.jpg' width="600"/></p>
 
 
 ## Getting Started
