@@ -15,7 +15,7 @@ The code is written by Dr. [Siyu Huang](https://siyuhuang.github.io/). Contact [
 
 <p align="center"><img src='figs/framework.jpg' width="500"/></p>
 
-<p align="center"><img src='figs/fig1.jpg' width="600"/></p>
+<p align="center"><img src='figs/fig1.jpg' width="800"/></p>
 
 
 ## Getting Started
