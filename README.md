@@ -11,8 +11,6 @@ PyTorch implementation of  "**Generating Person Images with Appearance-aware Pos
 }
 ```
 
-The code is written by Dr. [Siyu Huang](https://siyuhuang.github.io/). Contact [Siyu Huang](https://siyuhuang.github.io/) for questions on this project.
-
 <p align="center"><img src='figs/framework.jpg' width="500"/></p>
 
 <p align="center"><img src='figs/fig1.jpg' width="800"/></p>
@@ -117,4 +115,4 @@ python tool/calPCKH_fashion.py
 
 
 ## Acknowledgments
-The code is written based on nice frameworks [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Pose-Transfer](https://github.com/tengteng95/Pose-Transfer).
+The code is written based on nice frameworks [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Pose-Transfer](https://github.com/tengteng95/Pose-Transfer). The code is written by Dr. [Siyu Huang](https://siyuhuang.github.io/).
